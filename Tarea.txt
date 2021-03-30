@@ -1,0 +1,16 @@
+Tarea 
+
+dentro del app bike-ui 
+ crear los siguiente componentes 
+
+1) about
+2) admin
+3) home
+4) imagedetails
+5) image-gallery
+6) view-registration 
+
+todo los components se deben encontrar dentro de el path siguiente:
+\src\app\componentes\NombreDelComponent
+
+ng g c componentes/NOMBRECOMPONENTE
